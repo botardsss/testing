@@ -1,3 +1,3 @@
 <?php
-echo "GITHUB TESTING 10000";
+echo "SA WAKAS OK NA";
 ?>
